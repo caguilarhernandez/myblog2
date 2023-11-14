@@ -4,5 +4,5 @@
 
 layout: home
 title: Indice
-permalink: /cv/
+permalink: /indice/
 ---
