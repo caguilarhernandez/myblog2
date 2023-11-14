@@ -6,5 +6,3 @@ permalink: /sobre_mi/
 
 Soy Carlos Aguilar Hernández y estoy editando el repositorio con el tema minima.
 
-
-[jekyll-organization]: https://github.com/jekyll
