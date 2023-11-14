@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Sobre mi
-permalink: /sobre_mi/
+title: Sobre nosotros
+permalink: /sobre_nosotros/
 ---
 
-Soy Carlos Aguilar Hernández y estoy editando el repositorio con el tema minima.
+Somos el IES Migule Herrero y esta es nuestra pagina web.
 
